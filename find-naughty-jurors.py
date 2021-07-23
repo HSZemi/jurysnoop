@@ -106,34 +106,5 @@ def main():
     for key, value in sorted_values.items():
         print(value[0], value[1], key)
     
-    
-def debug_diagram():
-    id_ = 'stockholm-2016|denmark|B'.replace('|','_')
-    sf = {
-    "Moldova": 2,
-    "Armenia": 3,
-    "Azerbaijan": 5,
-    "Sweden": 7,
-    "Australia": 8,
-    "Greece": 9,
-    "Poland": 10,
-    "Cyprus": 13,
-    "Belgium": 16
-    }
-    f = {
-    "Poland": 9,
-    "Greece": 12,
-    "Cyprus": 13,
-    "Belgium": 14,
-    "Armenia": 16,
-    "Australia": 17,
-    "Sweden": 18,
-    "Azerbaijan": 21,
-    "Moldova": 22
-    }
-    
-    create_diagram(id_, sf,f)
-    
 if __name__ == "__main__":
     main()
-    #debug_diagram()
