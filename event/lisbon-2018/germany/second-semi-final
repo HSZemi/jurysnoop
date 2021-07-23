@@ -1,0 +1,1716 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/ESC/32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/ESC/16x16.png">
+<title>Results of the Second Semi-Final of Lisbon 2018 - Eurovision Song Contest</title>
+<meta name="description" content="Official website of the Eurovision Song Contest. The latest news, photos, videos, participant info, voting results, the Contest's rich history and much more.">
+<meta property="og:title" content="Results of the Second Semi-Final of Lisbon 2018" />
+<meta property="og:description" content="Official website of the Eurovision Song Contest. The latest news, photos, videos, participant info, voting results, the Contest's rich history and much more." />
+<meta property="og:site_name" content="Eurovision.tv" />
+<meta property="og:image" content="https://static.eurovision.tv/hb-cgi/images/927ea9cc-799b-4c99-834c-a6990f8b40cc/og.jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@eurovision" />
+<meta name="twitter:title" content="Results of the Second Semi-Final of Lisbon 2018" />
+<meta name="twitter:description" content="Official website of the Eurovision Song Contest. The latest news, photos, videos, participant info, voting results, the Contest's rich history and much more." />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Results of the Second Semi-Final of Lisbon 2018","url":"https://eurovision.tv/event/lisbon-2018/second-semi-final/results/germany?%2Fevent%2Flisbon-2018%2Fsecond-semi-final%2Fresults%2Fgermany="}</script>
+<link href="https://static.eurovision.tv/dist/web.4445ea09db7f8e2a74fd.css" rel="stylesheet">
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="fbb90c86-89fe-4c6a-adab-47e985003aad"></script>
+<script type="text/javascript">
+        function OptanonWrapper() { }
+      </script>
+<script src="https://static.eurovision.tv/dist/web.871b2aa15fea65fc436a.js" defer></script>
+</head>
+<body class="overflow-x-hidden" data-event="esc">
+<a href="#main" class="sr-only focus:not-sr-only !absolute top-[10px] left-0 right-0 !mx-auto !w-[200px] text-center font-semibold bg-white rounded text-black !p-2 z-[100] outline-none focus:ring focus:ring-blue-600">
+Skip to content
+</a>
+<div data-background="esc"></div>
+<div data-layout="sidebar">
+<nav x-data="{ sidebarOpen: false }" @keydown.escape.window="sidebarOpen = false" class="relative sticky w-full top-0 z-50">
+<div class="w-full flex items-center xs:px-4 xs:py-2 lg:py-0 lg:px-8 shadow" style="min-height: 3.75rem; background: rgba(255, 255, 255, 0.9)">
+<div class="container-full mx-auto flex items-center justify-between h-8 lg:h-auto">
+<div class="hidden lg:block">
+<ul class="flex items-center z-99">
+<li>
+<a href="/" target="_self" class="block no-underline cursor-pointer !leading-none font-bold outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg xl:leading-none h-16 text-black hover:bg-white focus:bg-white">
+Home
+</a>
+</li>
+<li>
+<button type="button" x-data="navigationItemDropdown()" x-on:mouseenter="open" x-on:mouseleave="close" x-on:focusout="close" x-on:click="toggle" x-bind:aria-expanded="expanded" aria-haspopup="true" class="block cursor-pointer !leading-none font-bold text-left focus:outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg  xl:leading-none h-16 text-black hover:bg-white focus:bg-white active:bg-white focus-within:bg-white">
+Updates
+<ul x-ref="list" class="hidden shadow w-56 z-10 bg-white">
+<li>
+<a href="/live-blog" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Live Blog
+</a>
+</li>
+<li>
+<a href="/stories" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Stories
+</a>
+</li>
+<li>
+<a href="/videos" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Videos
+</a>
+</li>
+<li>
+<a href="/galleries" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Photo galleries
+</a>
+</li>
+<li>
+<a href="/app" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Download the app
+</a>
+</li>
+</ul>
+</button>
+</li>
+<li>
+<button type="button" x-data="navigationItemDropdown()" x-on:mouseenter="open" x-on:mouseleave="close" x-on:focusout="close" x-on:click="toggle" x-bind:aria-expanded="expanded" aria-haspopup="true" class="block cursor-pointer !leading-none font-bold text-left focus:outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg  xl:leading-none h-16 text-black hover:bg-white focus:bg-white active:bg-white focus-within:bg-white">
+Rotterdam 2021
+<ul x-ref="list" class="hidden shadow w-56 z-10 bg-white">
+<li>
+<a href="/event/rotterdam-2021" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Event
+</a>
+</li>
+<li>
+<a href="/event/rotterdam-2021/participants" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Participants
+</a>
+</li>
+<li>
+<a href="/calendar" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Calendar
+</a>
+</li>
+ <li>
+<a href="/mediacentre/2021-faqs" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+FAQ 2021
+</a>
+</li>
+<li>
+<a href="/tickets" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Tickets
+</a>
+</li>
+<li>
+<a href="/theme" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Theme
+</a>
+</li>
+<li>
+<a href="/presenters" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Presenters
+</a>
+</li>
+<li>
+<a href="/venue" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Venue
+</a>
+</li>
+<li>
+<a href="/host-city" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+About Rotterdam
+</a>
+</li>
+<li>
+<a href="/viewers-guide" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+How to Watch
+</a>
+</li>
+</ul>
+</button>
+</li>
+<li>
+<button type="button" x-data="navigationItemDropdown()" x-on:mouseenter="open" x-on:mouseleave="close" x-on:focusout="close" x-on:click="toggle" x-bind:aria-expanded="expanded" aria-haspopup="true" class="block cursor-pointer !leading-none font-bold text-left focus:outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg  xl:leading-none h-16 text-black hover:bg-white focus:bg-white active:bg-white focus-within:bg-white">
+History
+<ul x-ref="list" class="hidden shadow w-56 z-10 bg-white">
+<li>
+<a href="/events" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+History by year
+</a>
+</li>
+<li>
+<a href="/countries" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+History by country
+</a>
+</li>
+<li>
+<a href="/winners" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Winners
+</a>
+</li>
+<li>
+<a href="/history/in-a-nutshell" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+In a nutshell
+</a>
+</li>
+<li>
+<a href="/about/facts-and-figures" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Facts &amp; figures
+</a>
+</li>
+</ul>
+</button>
+</li>
+<li>
+<button type="button" x-data="navigationItemDropdown()" x-on:mouseenter="open" x-on:mouseleave="close" x-on:focusout="close" x-on:click="toggle" x-bind:aria-expanded="expanded" aria-haspopup="true" class="block cursor-pointer !leading-none font-bold text-left focus:outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg  xl:leading-none h-16 text-black hover:bg-white focus:bg-white active:bg-white focus-within:bg-white">
+Shop
+<ul x-ref="list" class="hidden shadow w-56 z-10 bg-white">
+<li>
+<a href="https://shop.eurovision.tv" target="_blank" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Merchandise
+</a>
+</li>
+<li>
+<a href="https://Eurovision.lnk.to/ESC2021WE" target="_blank" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Music
+</a>
+</li>
+</ul>
+</button>
+</li>
+<li>
+<a href="/mediacentre" target="_self" class="block no-underline cursor-pointer !leading-none font-bold outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg xl:leading-none h-16 text-black hover:bg-white focus:bg-white">
+Media Centre
+</a>
+</li>
+<li>
+<button type="button" x-data="navigationItemDropdown()" x-on:mouseenter="open" x-on:mouseleave="close" x-on:focusout="close" x-on:click="toggle" x-bind:aria-expanded="expanded" aria-haspopup="true" class="block cursor-pointer !leading-none font-bold text-left focus:outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg  xl:leading-none h-16 text-black hover:bg-white focus:bg-white active:bg-white focus-within:bg-white">
+About
+<ul x-ref="list" class="hidden shadow w-56 z-10 bg-white">
+<li>
+<a href="/about/organisers" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Organisers
+</a>
+</li>
+<li>
+<a href="/mediacentre/logos-and-artwork" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Brand
+</a>
+</li>
+<li>
+<a href="/about/how-it-works" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+How it works
+</a>
+</li>
+<li>
+<a href="/about/in-depth" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+In-depth
+</a>
+</li>
+<li>
+<a href="/about/rules" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Rules
+</a>
+</li>
+<li>
+<a href="/about/faq" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+FAQ
+</a>
+</li>
+<li>
+<a href="/about/voting" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Voting
+</a>
+</li>
+</ul>
+</button>
+</li>
+<li>
+<button type="button" x-data="navigationItemDropdown()" x-on:mouseenter="open" x-on:mouseleave="close" x-on:focusout="close" x-on:click="toggle" x-bind:aria-expanded="expanded" aria-haspopup="true" class="block cursor-pointer !leading-none font-bold text-left focus:outline-none whitespace-nowrap flex items-center px-4 py-6 text-base xl:text-lg  xl:leading-none h-16 text-black hover:bg-white focus:bg-white active:bg-white focus-within:bg-white">
+Social
+<ul x-ref="list" class="hidden shadow w-56 z-10 bg-white">
+<li>
+<a href="https://facebook.com/eurovisionsongcontest" target="_blank" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Facebook
+</a>
+</li>
+<li>
+<a href="https://instagram.com/eurovision" target="_blank" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Instagram
+</a>
+</li>
+<li>
+<a href="https://twitter.com/eurovision" target="_blank" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+Twitter
+</a>
+</li>
+<li>
+<a href="https://www.tiktok.com/@eurovision" target="_self" class="block py-3 px-4 relative hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 outline-none transition duration-100 ease-in-out border-white text-black" style="border-left-width: 3px">
+TikTok
+</a>
+</li>
+</ul>
+</button>
+</li>
+</ul>
+</div>
+<div class="w-12">
+<button @click="sidebarOpen = !sidebarOpen" class="text-blue-darkest block lg:hidden focus:outline-none focus:shadow-outline">
+<svg class="fill-current w-5 h-5" width="34" height="24" viewBox="0 0 34 24" xmlns="http://www.w3.org/2000/svg"><g id="menu-shape" fill="#000" fill-rule="evenodd"><path d="M1.72 3.4h30a1.5 1.5 0 0 0 0-3h-30a1.5 1.5 0 0 0 0 3zM31.72 10.4h-30a1.5 1.5 0 0 0 0 3h30a1.5 1.5 0 0 0 0-3zM31.72 20.4h-30a1.5 1.5 0 0 0 0 3h30a1.5 1.5 0 0 0 0-3z" /></g></svg> </button>
+</div>
+<div class="flex flex-1 items-start justify-center h-full lg:hidden mx-6">
+<a href="https://eurovision.tv" class="focus:outline-none focus:shadow-outline">
+<img src="https://static.eurovision.tv/dist/assets/images/esc_logo_black.ca25633527ba11a945ea..svg" alt="Eurovision Song Contest" class="max-w-full max-h-full" style="max-height: 36px;" />
+</a>
+<div class="mx-4 border-r border-gray-500 h-8 w-px"></div>
+<a href="https://www.moroccanoil.com" class="focus:outline-none focus:shadow-outline" target="_blank" rel="noopener noreferrer">
+<img src="https://static.eurovision.tv/dist/assets/images/esc_partner_mobile.61d90e51070f0c066281..svg" alt="Presented by Moroccanoil" class="max-w-full h-auto" style="max-height: 32px;" />
+</a>
+</div>
+<div class="lg:hidden ml-auto w-12 self-start flex justify-end">
+<a href="https://ebu.ch" class="block text-right no-underline focus:outline-none focus:shadow-outline">
+<img src="https://static.eurovision.tv/dist/assets/images/organized_by_ebu.33e709db75c8482575c5..svg" alt="Organized by EBU" width="38px" />
+</a>
+</div>
+<div class="text-grey-dark items-center xs:hidden lg:flex">
+<a href="https://eurovision.tv/search" class="lg:flex no-underline text-gray-600 font-bold items-center">
+<svg class="lg:mr-2 fill-current" width="20" height="21" viewBox="0 0 20 21" xmlns="http://www.w3.org/2000/svg"><path d="M19.286 19.223l-4.62-4.595a8.58 8.58 0 1 0-1.15.97l4.71 4.71a.75.75 0 0 0 1.06-1.06v-.025zM1.63 8.628a7 7 0 1 1 14 0 7 7 0 0 1-14 0z" id="search-shape" fill="#A7AAB3" fill-rule="evenodd" /></svg> <div class="hidden lg:block font-bold leading-none text-sm">
+Search
+</div>
+</a>
+<figure class="h-8 w-px mx-4 bg-gray-500 xs:hidden lg:block"></figure>
+<a href="https://ebu.ch" class="no-underline">
+<img src="https://static.eurovision.tv/dist/assets/images/ebu_logo.c976bc8bcd5090fc70dd..svg" alt="EBU" width="55px" />
+</a>
+</div>
+</div>
+</div>
+<div x-cloak x-show="sidebarOpen" x-transition:enter="transition ease-in-out duration-200 transform" x-transition:enter-start="-translate-x-full" x-transition:enter-end="translate-x-0" x-transition:leave="transition ease-in-out duration-200 transform" x-transition:leave-start="translate-x-0" x-transition:leave-end="-translate-x-full" class="flex lg:hidden flex-col bg-gray-900 p-6 fixed left-0 w-full overflow-y-scroll scrolling-touch text-white" style="top: 3.75rem; height: calc(100% - 3.75rem);">
+<ul>
+<li class="py-4 text-lg">
+<a href="/" class="no-underline font-bold ml-6">
+Home
+</a>
+</li>
+<li x-data="{ open: false }" class="text-lg py-4">
+<button @click="open = !open" class="no-underline font-bold flex items-center cursor-pointer outline-none">
+<svg class="fill-current mr-4 w-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.249995" d="M4.58.63l8.94 8.93a.62.62 0 010 .88l-8.94 8.94" />
+</svg> Updates
+</button>
+<ul x-ref="container" class="pl-8 max-h-0 overflow-hidden transition-all ease-in-out duration-300" x-bind:style="open && `max-height: ${$refs.container.scrollHeight}px`">
+<div class="pt-6"></div>
+<li>
+<a href="/live-blog" class="leading-none no-underline py-2 block">
+Live Blog
+</a>
+</li>
+<li>
+<a href="/stories" class="leading-none no-underline py-2 block">
+Stories
+</a>
+</li>
+<li>
+<a href="/videos" class="leading-none no-underline py-2 block">
+Videos
+</a>
+</li>
+<li>
+<a href="/galleries" class="leading-none no-underline py-2 block">
+Photo galleries
+</a>
+</li>
+<li>
+<a href="/app" class="leading-none no-underline py-2 block">
+Download the app
+</a>
+</li>
+</ul>
+</li>
+<li x-data="{ open: false }" class="text-lg py-4">
+<button @click="open = !open" class="no-underline font-bold flex items-center cursor-pointer outline-none">
+<svg class="fill-current mr-4 w-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.249995" d="M4.58.63l8.94 8.93a.62.62 0 010 .88l-8.94 8.94" />
+</svg> Rotterdam 2021
+</button>
+<ul x-ref="container" class="pl-8 max-h-0 overflow-hidden transition-all ease-in-out duration-300" x-bind:style="open && `max-height: ${$refs.container.scrollHeight}px`">
+<div class="pt-6"></div>
+<li>
+<a href="/event/rotterdam-2021" class="leading-none no-underline py-2 block">
+Event
+</a>
+</li>
+<li>
+<a href="/event/rotterdam-2021/participants" class="leading-none no-underline py-2 block">
+Participants
+</a>
+</li>
+<li>
+<a href="/calendar" class="leading-none no-underline py-2 block">
+Calendar
+</a>
+</li>
+<li>
+<a href="/mediacentre/2021-faqs" class="leading-none no-underline py-2 block">
+FAQ 2021
+</a>
+</li>
+<li>
+<a href="/tickets" class="leading-none no-underline py-2 block">
+Tickets
+</a>
+</li>
+<li>
+<a href="/theme" class="leading-none no-underline py-2 block">
+Theme
+</a>
+</li>
+<li>
+<a href="/presenters" class="leading-none no-underline py-2 block">
+Presenters
+</a>
+</li>
+<li>
+<a href="/venue" class="leading-none no-underline py-2 block">
+Venue
+</a>
+</li>
+<li>
+<a href="/host-city" class="leading-none no-underline py-2 block">
+About Rotterdam
+</a>
+</li>
+<li>
+<a href="/viewers-guide" class="leading-none no-underline py-2 block">
+How to Watch
+</a>
+</li>
+</ul>
+</li>
+<li x-data="{ open: false }" class="text-lg py-4">
+<button @click="open = !open" class="no-underline font-bold flex items-center cursor-pointer outline-none">
+<svg class="fill-current mr-4 w-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.249995" d="M4.58.63l8.94 8.93a.62.62 0 010 .88l-8.94 8.94" />
+</svg> History
+</button>
+<ul x-ref="container" class="pl-8 max-h-0 overflow-hidden transition-all ease-in-out duration-300" x-bind:style="open && `max-height: ${$refs.container.scrollHeight}px`">
+<div class="pt-6"></div>
+<li>
+<a href="/events" class="leading-none no-underline py-2 block">
+History by year
+</a>
+</li>
+<li>
+<a href="/countries" class="leading-none no-underline py-2 block">
+History by country
+</a>
+</li>
+<li>
+<a href="/winners" class="leading-none no-underline py-2 block">
+Winners
+</a>
+</li>
+<li>
+<a href="/history/in-a-nutshell" class="leading-none no-underline py-2 block">
+In a nutshell
+</a>
+</li>
+<li>
+<a href="/about/facts-and-figures" class="leading-none no-underline py-2 block">
+Facts &amp; figures
+</a>
+</li>
+</ul>
+</li>
+<li x-data="{ open: false }" class="text-lg py-4">
+<button @click="open = !open" class="no-underline font-bold flex items-center cursor-pointer outline-none">
+<svg class="fill-current mr-4 w-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.249995" d="M4.58.63l8.94 8.93a.62.62 0 010 .88l-8.94 8.94" />
+</svg> Shop
+</button>
+<ul x-ref="container" class="pl-8 max-h-0 overflow-hidden transition-all ease-in-out duration-300" x-bind:style="open && `max-height: ${$refs.container.scrollHeight}px`">
+<div class="pt-6"></div>
+<li>
+<a href="https://shop.eurovision.tv" class="leading-none no-underline py-2 block">
+Merchandise
+</a>
+</li>
+<li>
+<a href="https://Eurovision.lnk.to/ESC2021WE" class="leading-none no-underline py-2 block">
+Music
+</a>
+</li>
+</ul>
+</li>
+<li class="py-4 text-lg">
+<a href="/mediacentre" class="no-underline font-bold ml-6">
+Media Centre
+</a>
+</li>
+<li x-data="{ open: false }" class="text-lg py-4">
+<button @click="open = !open" class="no-underline font-bold flex items-center cursor-pointer outline-none">
+<svg class="fill-current mr-4 w-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.249995" d="M4.58.63l8.94 8.93a.62.62 0 010 .88l-8.94 8.94" />
+</svg> About
+</button>
+<ul x-ref="container" class="pl-8 max-h-0 overflow-hidden transition-all ease-in-out duration-300" x-bind:style="open && `max-height: ${$refs.container.scrollHeight}px`">
+<div class="pt-6"></div>
+<li>
+<a href="/about/organisers" class="leading-none no-underline py-2 block">
+Organisers
+</a>
+</li>
+<li>
+<a href="/mediacentre/logos-and-artwork" class="leading-none no-underline py-2 block">
+Brand
+</a>
+</li>
+<li>
+<a href="/about/how-it-works" class="leading-none no-underline py-2 block">
+How it works
+</a>
+</li>
+<li>
+<a href="/about/in-depth" class="leading-none no-underline py-2 block">
+In-depth
+</a>
+</li>
+<li>
+<a href="/about/rules" class="leading-none no-underline py-2 block">
+Rules
+</a>
+</li>
+<li>
+<a href="/about/faq" class="leading-none no-underline py-2 block">
+FAQ
+</a>
+</li>
+<li>
+<a href="/about/voting" class="leading-none no-underline py-2 block">
+Voting
+</a>
+</li>
+</ul>
+</li>
+<li x-data="{ open: false }" class="text-lg py-4">
+<button @click="open = !open" class="no-underline font-bold flex items-center cursor-pointer outline-none">
+<svg class="fill-current mr-4 w-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.249995" d="M4.58.63l8.94 8.93a.62.62 0 010 .88l-8.94 8.94" />
+</svg> Social
+</button>
+<ul x-ref="container" class="pl-8 max-h-0 overflow-hidden transition-all ease-in-out duration-300" x-bind:style="open && `max-height: ${$refs.container.scrollHeight}px`">
+<div class="pt-6"></div>
+<li>
+<a href="https://facebook.com/eurovisionsongcontest" class="leading-none no-underline py-2 block">
+Facebook
+</a>
+</li>
+<li>
+<a href="https://instagram.com/eurovision" class="leading-none no-underline py-2 block">
+Instagram
+</a>
+</li>
+<li>
+<a href="https://twitter.com/eurovision" class="leading-none no-underline py-2 block">
+Twitter
+</a>
+</li>
+<li>
+<a href="https://www.tiktok.com/@eurovision" class="leading-none no-underline py-2 block">
+TikTok
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="mt-auto ml-8">
+<a href="https://eurovision.tv/search" class="flex no-underline text-grey-dark font-bold items-center mt-20">
+<svg class="fill-current" width="20" height="21" viewBox="0 0 20 21" xmlns="http://www.w3.org/2000/svg"><path d="M19.286 19.223l-4.62-4.595a8.58 8.58 0 1 0-1.15.97l4.71 4.71a.75.75 0 0 0 1.06-1.06v-.025zM1.63 8.628a7 7 0 1 1 14 0 7 7 0 0 1-14 0z" id="search-shape" fill="#A7AAB3" fill-rule="evenodd" /></svg> <span class="ml-4">Search</span>
+</a>
+</div>
+</div>
+</nav>
+<div class="sidebar | hidden xl:block w-full fixed h-full inset-x-0 mx-auto" style="max-width: 1920px" data-sidebar>
+</div>
+<div class="flex min-h-full flex-col">
+<div class="flex-auto container-full mx-auto">
+<div class="flex">
+<div class="hidden xl:block xl:w-1/5 xxl:block relative" style="min-height: 500px">
+<div class="sticky flex flex-col justify-center items-center text-white py-12 px-8 top-16 space-y-8">
+<div class="flex flex-col items-center" style="max-width: 215px">
+<a href="https://eurovision.tv" class="max-w-full">
+<img src="https://static.eurovision.tv/dist/assets/images/esc_logo_white.f65ab5af46833d32b43d..svg" alt="Eurovision Song Contest" width="215" height="83" />
+</a>
+</div>
+<div style="max-width: 280px">
+<img src="https://static.eurovision.tv/dist/assets/images/esc/2021/symbol.6a580cb72aa8cbc8aefd..svg" alt="Symbol" />
+</div>
+<div class="text-center">
+<div>18, 20 &amp; 22 May<br>21:00 CEST</div>
+</div>
+<div class="text-center" style="max-width: 215px">
+<a href="https://www.moroccanoil.com" target="_blank" rel="noopener noreferrer">
+<img src="https://static.eurovision.tv/dist/assets/images/esc_partner_desktop.3b96c6f02430f9d173f7..svg" alt="Presented by Moroccanoil" />
+</a>
+</div>
+<div x-data="{ active: 0, count: 6 }" x-init="setInterval(() => active = (active + 1) % count, 5000);" class="space-y-2">
+<div class="relative h-5">
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="0 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Official Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="1 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Organized By
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="2 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Presenting Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="3 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Official Travel Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="4 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Official Lighting Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="5 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Supporting
+</span>
+</div>
+<div class="bg-white relative overflow-hidden rounded-sm w-40 h-16">
+<a href="http://www.riedel.net/" title="Riedel" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="0 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/8fc69acf-3c1f-4415-af91-a4a033df77be/partner.png" alt="Riedel">
+</a>
+<a href="https://www.ebu.ch/" title="EBU" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="1 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/8fbca449-2b07-406e-8ebb-ff7d2aeb3ded/partner.png" alt="EBU">
+</a>
+<a href="https://www.moroccanoil.com/" title="Moroccanoil" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="2 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/900cc2cf-a9c5-4a56-8b48-b710f61d52a0/partner.png" alt="Moroccanoil">
+</a>
+<a href="https://www.booking.com/?aid=2124988label=eurovision-digital-website-logo" title="Booking.com" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="3 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/92b25a33-eb2a-4d94-afc6-bb458c3a5316/partner.png" alt="Booking.com">
+</a>
+<a href="https://osram.com" title="Osram" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="4 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/8d9181b7-c358-426e-9eae-be22b21e06d0/partner.png" alt="Osram">
+</a>
+<a href="https://voicefortheplanet.eu" title="WWF" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="5 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/936bbc86-35dd-4216-9357-1fe906d0516b/partner.png" alt="WWF">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden lg:block lg:w-1/4 xl:hidden flex-shrink-0">
+<div class="sticky flex flex-col justify-center items-center text-white py-12 px-8 top-16 space-y-8">
+<div class="flex flex-col items-center" style="max-width: 215px">
+<a href="https://eurovision.tv" class="max-w-full">
+<img src="https://static.eurovision.tv/dist/assets/images/esc_logo_white.f65ab5af46833d32b43d..svg" alt="Eurovision Song Contest" width="215" height="83" />
+</a>
+</div>
+<div style="max-width: 280px">
+<img src="https://static.eurovision.tv/dist/assets/images/esc/2021/symbol.6a580cb72aa8cbc8aefd..svg" alt="Symbol" />
+</div>
+<div class="text-center">
+<div>18, 20 &amp; 22 May<br>21:00 CEST</div>
+</div>
+<div class="text-center" style="max-width: 215px">
+<a href="https://www.moroccanoil.com" target="_blank" rel="noopener noreferrer">
+<img src="https://static.eurovision.tv/dist/assets/images/esc_partner_desktop.3b96c6f02430f9d173f7..svg" alt="Presented by Moroccanoil" />
+</a>
+</div>
+<div x-data="{ active: 0, count: 6 }" x-init="setInterval(() => active = (active + 1) % count, 5000);" class="space-y-2">
+<div class="relative h-5">
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="0 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Official Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="1 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Organized By
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="2 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Presenting Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="3 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Official Travel Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="4 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Official Lighting Partner
+</span>
+<span class="absolute inset-x-0 text-center text-sm transition ease-in-out duration-700" x-show="5 === active" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+Supporting
+</span>
+</div>
+<div class="bg-white relative overflow-hidden rounded-sm w-40 h-16">
+<a href="http://www.riedel.net/" title="Riedel" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="0 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/8fc69acf-3c1f-4415-af91-a4a033df77be/partner.png" alt="Riedel">
+</a>
+<a href="https://www.ebu.ch/" title="EBU" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="1 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/8fbca449-2b07-406e-8ebb-ff7d2aeb3ded/partner.png" alt="EBU">
+</a>
+<a href="https://www.moroccanoil.com/" title="Moroccanoil" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="2 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/900cc2cf-a9c5-4a56-8b48-b710f61d52a0/partner.png" alt="Moroccanoil">
+</a>
+<a href="https://www.booking.com/?aid=2124988label=eurovision-digital-website-logo" title="Booking.com" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="3 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/92b25a33-eb2a-4d94-afc6-bb458c3a5316/partner.png" alt="Booking.com">
+</a>
+<a href="https://osram.com" title="Osram" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="4 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/8d9181b7-c358-426e-9eae-be22b21e06d0/partner.png" alt="Osram">
+</a>
+<a href="https://voicefortheplanet.eu" title="WWF" target="_blank" class="block absolute flex items-center justify-center py-4 px-6 w-full h-full transition ease-in-out duration-700" x-show="5 === active" x-transition:enter-start="transform translate-y-full" x-transition:enter-end="transform translate-y-0" x-transition:leave-start="transform translate-y-0" x-transition:leave-end="transform -translate-y-full">
+<img src="https://static.eurovision.tv/hb-cgi/images/936bbc86-35dd-4216-9357-1fe906d0516b/partner.png" alt="WWF">
+</a>
+</div>
+</div>
+</div>
+</div>
+<main class="w-full lg:w-3/4 xl:w-4/5" id="main">
+<div class="relative">
+<div class="hidden md:flex">
+<div class="w-full xl:w-3/4">
+<div class="aspect-h-10 aspect-w-19 bg-blue-1000">
+<div>
+<img src="https://static.eurovision.tv/hb-cgi/images/8d9181a8-7a21-4e1e-919f-e48559e4bd7a/hero.JPG" alt="Netta from Israel wins the 2018 Eurovision Song Contest with Toy." class="w-full" />
+<div class="absolute py-2 md:py-4 text-white flex flex-wrap w-full bottom-0 z-10 bg-black-50">
+<div class="md:w-1/3 relative">
+<div class="absolute bottom-0 w-full px-6 lg:px-10">
+<img src="https://static.eurovision.tv/hb-cgi/images/8d917f4a-3951-4134-a279-2a760ecc5bb0.png" class="w-full bg-white" alt="Lisbon 2018">
+</div>
+</div>
+<div class="w-full md:w-2/3 mx-auto px-6 xl:px-10">
+<a href="https://eurovision.tv/events" class="hover:underline">
+Events
+</a>
+<header>
+<h1 class="text-4xl font-bold leading-tight tracking-wide">
+Lisbon 2018
+</h1>
+<div>
+</div>
+</header>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md:hidden">
+<div class="flex overflow-hidden" style="height: calc(100vw /3);">
+<div class="w-1/3">
+<div class="aspect-h-1 aspect-w-1 bg-white w-full">
+<div class="md:p-5">
+<img src="https://static.eurovision.tv/hb-cgi/images/8d917f4a-3951-4134-a279-2a760ecc5bb0.png" class="w-full" alt="Lisbon 2018" />
+</div>
+</div>
+</div>
+<div class="w-2/3 h-full overflow-hidden bg-gray-200">
+<img src="https://static.eurovision.tv/hb-cgi/images/8d9181a8-7a21-4e1e-919f-e48559e4bd7a/hero.JPG" alt="Netta from Israel wins the 2018 Eurovision Song Contest with Toy." class="w-full" />
+</div>
+</div>
+<div class="px-4 py-6 bg-blue-1000 text-white">
+<a href="https://eurovision.tv/events">
+Events
+</a>
+<header class="mt-1">
+<h1 class="text-xl font-bold leading-tight tracking-wide">
+Lisbon 2018
+</h1>
+<div>
+</div>
+</header>
+</div>
+</div>
+<div class="flex flex-wrap bg-blue-1000 w-full xl:w-3/4 xl:bg-black">
+<div class="fade md:hidden"></div>
+<div class="scrollable-pill-nav flex px-4 py-4 lg:px-10 text-white space-x-3">
+<a href="https://eurovision.tv/event/lisbon-2018" class="flex-shrink-0 rounded-full outline-none focus:ring-blue-700">
+<span class="px-4 h-8 inline-flex items-center cursor-pointer flex-shrink-0 rounded-full shadow border font-bold text-sm transition duration-150 ease-in-out border-white hover:bg-white hover:text-black">
+About
+</span>
+</a>
+<a href="https://eurovision.tv/event/lisbon-2018/participants" class="flex-shrink-0 rounded-full outline-none focus:ring-blue-700">
+<span class="px-4 h-8 inline-flex items-center cursor-pointer flex-shrink-0 rounded-full shadow border font-bold text-sm transition duration-150 ease-in-out border-white hover:bg-white hover:text-black">
+Participants
+</span>
+</a>
+<a href="https://eurovision.tv/event/lisbon-2018/first-semi-final" class="flex-shrink-0 rounded-full outline-none focus:ring-blue-700">
+<span class="px-4 h-8 inline-flex items-center cursor-pointer flex-shrink-0 rounded-full shadow border font-bold text-sm transition duration-150 ease-in-out border-white hover:bg-white hover:text-black">
+First Semi-Final
+</span>
+</a>
+<a href="https://eurovision.tv/event/lisbon-2018/second-semi-final" class="flex-shrink-0 rounded-full outline-none focus:ring-blue-700">
+<span class="px-4 h-8 inline-flex items-center cursor-pointer flex-shrink-0 rounded-full shadow border font-bold text-sm transition duration-150 ease-in-out border-white bg-white text-black">
+Second Semi-Final
+</span>
+</a>
+<a href="https://eurovision.tv/event/lisbon-2018/grand-final" class="flex-shrink-0 rounded-full outline-none focus:ring-blue-700">
+<span class="px-4 h-8 inline-flex items-center cursor-pointer flex-shrink-0 rounded-full shadow border font-bold text-sm transition duration-150 ease-in-out border-white hover:bg-white hover:text-black">
+Grand Final
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="flex flex-wrap">
+<div class="w-full xxl:w-3/4 bg-white py-6 lg:py-8 xl:py-10">
+<div class="px-4 lg:px-8 xl:px-10">
+<nav class="w-full flex flex-wrap mb-8">
+<div class="space-x-6">
+<a href="https://eurovision.tv/event/lisbon-2018/second-semi-final" class="hover:opacity-100 opacity-50 font-bold hover:underline">
+Scoreboard
+</a>
+<a href="https://eurovision.tv/event/lisbon-2018/second-semi-final/results" class="hover:opacity-100 font-bold hover:underline">
+Detailed voting results
+</a>
+<a href="https://eurovision.tv/event/lisbon-2018/second-semi-final/jury" class="hover:opacity-100 opacity-50 font-bold hover:underline">
+Jury
+</a>
+</div>
+<a href="https://youtube.com/watch?v=NOuE9l2aWzI" target="_blank" class="flex items-center mt-6 md:mt-0 md:ml-auto">
+Watch the show
+<svg class="ml-2" width="20" height="15" viewBox="0 0 20 15" xmlns="http://www.w3.org/2000/svg"><title>YouTube</title><path d="M7.935 9.625V4.007l5.403 2.819-5.403 2.8zM19.8 3.034s-.196-1.378-.795-1.985c-.76-.797-1.613-.8-2.004-.847C14.202 0 10.004 0 10.004 0h-.008S5.797 0 2.999.202C2.607.25 1.756.252.994 1.05.395 1.656.2 3.034.2 3.034S0 4.652 0 6.27v1.517c0 1.618.2 3.236.2 3.236s.195 1.378.794 1.985c.762.796 1.761.771 2.206.854 1.6.154 6.8.202 6.8.202s4.203-.007 7.001-.21c.39-.046 1.243-.05 2.004-.846.6-.607.795-1.985.795-1.985s.2-1.618.2-3.236V6.27c0-1.618-.2-3.236-.2-3.236z" fill="#FF1441" fill-rule="evenodd" /></svg> </a>
+</nav>
+</div>
+<div class="w-full pb-6 px-4 lg:px-8 xl:px-10">
+<label>
+<span class="font-bold mr-1">Show results of</span>
+<select class="form-select" x-data @change="location.href = $event.target.value">
+<option selected disabled>Choose country</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/australia">
+Australia
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/denmark">
+Denmark
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/france">
+France
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/georgia">
+Georgia
+</option>
+<option selected value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/germany">
+Germany
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/hungary">
+Hungary
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/italy">
+Italy
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/latvia">
+Latvia
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/malta">
+Malta
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/moldova">
+Moldova
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/montenegro">
+Montenegro
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/norway">
+Norway
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/poland">
+Poland
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/romania">
+Romania
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/russia">
+Russia
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/san-marino">
+San Marino
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/serbia">
+Serbia
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/slovenia">
+Slovenia
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/sweden">
+Sweden
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/the-netherlands">
+The Netherlands
+</option>
+<option value="https://eurovision.tv/event/lisbon-2018/second-semi-final/results/ukraine">
+Ukraine
+</option>
+</select>
+</label>
+<h4 class="my-8">
+<div class="flex items-center">
+<span class="emoji w-8 h-8">
+<img class="joypixels" alt="&#x1f1e9;&#x1f1ea;" title=":flag_de:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1e9-1f1ea.png" />
+</span>
+<svg class="mr-1" width="29" height="17" viewBox="0 0 29 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+<path d="M29 8.739a1.49 1.49 0 0 0-.38-1.33l-6.25-6.5a1.5 1.5 0 1 0-2.16 2.08l3.81 4H1.5a1.5 1.5 0 0 0 0 3h22.71L20 13.849a1.5 1.5 0 1 0 2 2.2l6.5-6a1.47 1.47 0 0 0 .5-1.31z" fill-rule="evenodd" />
+</svg> <div class="rounded-full bg-gray-200 mr-1 w-8 h-8"></div>
+<div class="ml-3">
+How <span class="font-bold">Germany</span> voted
+</div>
+</div>
+</h4>
+<div class="flex flex-wrap">
+<div class="w-full md:w-1/2 md:pr-6">
+<table class="w-full">
+<thead>
+<tr>
+<th class="text-left bg-gray-200 text-gray-800 font-bold leading-none p-4 rounded" colspan="2">
+Points given by televoters
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none pt-4 align-middle font-bold text-3xl">
+12
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 pt-4 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f5;&#x1f1f1;" title=":flag_pl:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f5-1f1f1.png" />
+</span>
+Poland
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle font-bold text-xl">
+10
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1e9;&#x1f1f0;" title=":flag_dk:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1e9-1f1f0.png" />
+</span>
+Denmark
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle font-bold text-l">
+8
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1ed;&#x1f1fa;" title=":flag_hu:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1ed-1f1fa.png" />
+</span>
+Hungary
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+7
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1e6;&#x1f1fa;" title=":flag_au:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1e6-1f1fa.png" />
+</span>
+Australia
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+6
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f7;&#x1f1f8;" title=":flag_rs:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f7-1f1f8.png" />
+</span>
+Serbia
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+5
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f2;&#x1f1e9;" title=":flag_md:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f2-1f1e9.png" />
+</span>
+Moldova
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+4
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f3;&#x1f1f4;" title=":flag_no:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f3-1f1f4.png" />
+</span>
+Norway
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+3
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f3;&#x1f1f1;" title=":flag_nl:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f3-1f1f1.png" />
+</span>
+The Netherlands
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+2
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f8;&#x1f1ee;" title=":flag_si:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f8-1f1ee.png" />
+</span>
+Slovenia
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+1
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1fa;&#x1f1e6;" title=":flag_ua:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1fa-1f1e6.png" />
+</span>
+Ukraine
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="w-full mt-2 md:w-1/2 md:mt-0">
+<table class="w-full">
+<thead>
+<tr>
+<th class="text-left bg-gray-200 text-gray-800 font-bold leading-none p-4 rounded" colspan="2">
+Points given by the jury
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none pt-4 align-middle font-bold text-3xl">
+12
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 pt-4 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f8;&#x1f1ea;" title=":flag_se:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f8-1f1ea.png" />
+</span>
+Sweden
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle font-bold text-xl">
+10
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f1;&#x1f1fb;" title=":flag_lv:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f1-1f1fb.png" />
+</span>
+Latvia
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle font-bold text-l">
+8
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1e6;&#x1f1fa;" title=":flag_au:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1e6-1f1fa.png" />
+</span>
+Australia
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+7
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f3;&#x1f1f1;" title=":flag_nl:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f3-1f1f1.png" />
+</span>
+The Netherlands
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+6
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f2;&#x1f1f9;" title=":flag_mt:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f2-1f1f9.png" />
+</span>
+Malta
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+5
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f3;&#x1f1f4;" title=":flag_no:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f3-1f1f4.png" />
+</span>
+Norway
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+4
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f2;&#x1f1e9;" title=":flag_md:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f2-1f1e9.png" />
+</span>
+Moldova
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+3
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f8;&#x1f1ee;" title=":flag_si:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f8-1f1ee.png" />
+</span>
+Slovenia
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+2
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f5;&#x1f1f1;" title=":flag_pl:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f5-1f1f1.png" />
+</span>
+Poland
+</td>
+</tr>
+<tr class="text-base">
+<td rowspan="1" class="w-1 border-b border-grey px-4 py-2 leading-none align-middle">
+1
+</td>
+<td class="text-base px-4 py-2 border-b border-grey pb-2 ">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f7;&#x1f1f8;" title=":flag_rs:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f7-1f1f8.png" />
+</span>
+Serbia
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="w-full xxl:w-3/4 bg-gray-200 p-4 lg:p-8 xl:p-10 pr-0">
+<div class="overflow-scroll">
+<div style="min-width: 700px">
+<h2 class="text-lg font-bold mb-2">Detailed voting breakdown</h2>
+<p class="mb-4"><a class="text-blue-600 font-bold hover:underline" href="https://eurovision.tv/event/lisbon-2018/second-semi-final/jury">View the jury members</a></p>
+<table class="md:table w-full">
+<thead>
+<tr>
+<th class="px-4 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-left rounded-l">
+Country
+</th>
+<th class="px-1 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-left">
+Juror
+</th>
+<th class="px-2 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right">
+A
+</th>
+<th class="px-2 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right">
+B
+</th>
+<th class="px-2 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right">
+C
+</th>
+<th class="px-2 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right">
+D
+</th>
+<th class="px-2 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right">
+E
+</th>
+<th class="px-4 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right">
+Jury rank
+</th>
+<th class="px-4 py-4 bg-gray-300 text-gray-800 font-bold leading-none text-sm text-right rounded-r">
+Televoting rank
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1e6;&#x1f1fa;" title=":flag_au:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1e6-1f1fa.png" />
+</span>
+Australia
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">3</td>
+<td class="px-2 py-2 text-sm text-right">4</td>
+<td class="px-2 py-2 text-sm text-right">3</td>
+<td class="px-2 py-2 text-sm text-right">3</td>
+<td class="px-2 py-2 text-sm text-right">2</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+8 points
+</span>
+3rd
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+7 points
+</span>
+4th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1e9;&#x1f1f0;" title=":flag_dk:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1e9-1f1f0.png" />
+</span>
+Denmark
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">7</td>
+<td class="px-2 py-2 text-sm text-right">12</td>
+<td class="px-2 py-2 text-sm text-right">14</td>
+<td class="px-2 py-2 text-sm text-right">14</td>
+<td class="px-2 py-2 text-sm text-right">9</td>
+<td class="px-4 py-2 text-sm text-right">
+11th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+10 points
+</span>
+2nd
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1ec;&#x1f1ea;" title=":flag_ge:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1ec-1f1ea.png" />
+</span>
+Georgia
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">13</td>
+<td class="px-2 py-2 text-sm text-right">9</td>
+<td class="px-2 py-2 text-sm text-right">13</td>
+<td class="px-2 py-2 text-sm text-right">15</td>
+<td class="px-2 py-2 text-sm text-right">12</td>
+<td class="px-4 py-2 text-sm text-right">
+14th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+15th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1ed;&#x1f1fa;" title=":flag_hu:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1ed-1f1fa.png" />
+</span>
+Hungary
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">15</td>
+<td class="px-2 py-2 text-sm text-right">16</td>
+<td class="px-2 py-2 text-sm text-right">17</td>
+<td class="px-2 py-2 text-sm text-right">17</td>
+<td class="px-2 py-2 text-sm text-right">8</td>
+<td class="px-4 py-2 text-sm text-right">
+16th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+8 points
+</span>
+3rd
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f1;&#x1f1fb;" title=":flag_lv:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f1-1f1fb.png" />
+</span>
+Latvia
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">2</td>
+<td class="px-2 py-2 text-sm text-right">2</td>
+<td class="px-2 py-2 text-sm text-right">2</td>
+<td class="px-2 py-2 text-sm text-right">2</td>
+<td class="px-2 py-2 text-sm text-right">5</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+10 points
+</span>
+2nd
+</td>
+<td class="px-4 py-2 text-sm text-right">
+14th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f2;&#x1f1f9;" title=":flag_mt:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f2-1f1f9.png" />
+</span>
+Malta
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">4</td>
+<td class="px-2 py-2 text-sm text-right">6</td>
+<td class="px-2 py-2 text-sm text-right">6</td>
+<td class="px-2 py-2 text-sm text-right">5</td>
+<td class="px-2 py-2 text-sm text-right">11</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+6 points
+</span>
+5th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+17th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f2;&#x1f1e9;" title=":flag_md:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f2-1f1e9.png" />
+</span>
+Moldova
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">5</td>
+<td class="px-2 py-2 text-sm text-right">11</td>
+<td class="px-2 py-2 text-sm text-right">8</td>
+<td class="px-2 py-2 text-sm text-right">12</td>
+<td class="px-2 py-2 text-sm text-right">4</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+4 points
+</span>
+7th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+5 points
+</span>
+6th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f2;&#x1f1ea;" title=":flag_me:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f2-1f1ea.png" />
+</span>
+Montenegro
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">18</td>
+<td class="px-2 py-2 text-sm text-right">18</td>
+<td class="px-2 py-2 text-sm text-right">15</td>
+<td class="px-2 py-2 text-sm text-right">16</td>
+<td class="px-2 py-2 text-sm text-right">13</td>
+<td class="px-4 py-2 text-sm text-right">
+18th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+18th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f3;&#x1f1f4;" title=":flag_no:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f3-1f1f4.png" />
+</span>
+Norway
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">6</td>
+<td class="px-2 py-2 text-sm text-right">14</td>
+<td class="px-2 py-2 text-sm text-right">4</td>
+<td class="px-2 py-2 text-sm text-right">8</td>
+<td class="px-2 py-2 text-sm text-right">7</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+5 points
+</span>
+6th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+4 points
+</span>
+7th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f5;&#x1f1f1;" title=":flag_pl:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f5-1f1f1.png" />
+</span>
+Poland
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">10</td>
+<td class="px-2 py-2 text-sm text-right">7</td>
+<td class="px-2 py-2 text-sm text-right">9</td>
+<td class="px-2 py-2 text-sm text-right">6</td>
+<td class="px-2 py-2 text-sm text-right">18</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+2 points
+</span>
+9th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+12 points
+</span>
+1st
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f7;&#x1f1f4;" title=":flag_ro:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f7-1f1f4.png" />
+</span>
+Romania
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">14</td>
+<td class="px-2 py-2 text-sm text-right">10</td>
+<td class="px-2 py-2 text-sm text-right">10</td>
+<td class="px-2 py-2 text-sm text-right">13</td>
+<td class="px-2 py-2 text-sm text-right">14</td>
+<td class="px-4 py-2 text-sm text-right">
+13th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+13th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f7;&#x1f1fa;" title=":flag_ru:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f7-1f1fa.png" />
+</span>
+Russia
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">12</td>
+<td class="px-2 py-2 text-sm text-right">13</td>
+<td class="px-2 py-2 text-sm text-right">16</td>
+<td class="px-2 py-2 text-sm text-right">10</td>
+<td class="px-2 py-2 text-sm text-right">15</td>
+<td class="px-4 py-2 text-sm text-right">
+15th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+12th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f8;&#x1f1f2;" title=":flag_sm:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f8-1f1f2.png" />
+</span>
+San Marino
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">9</td>
+<td class="px-2 py-2 text-sm text-right">17</td>
+<td class="px-2 py-2 text-sm text-right">18</td>
+<td class="px-2 py-2 text-sm text-right">18</td>
+<td class="px-2 py-2 text-sm text-right">17</td>
+<td class="px-4 py-2 text-sm text-right">
+
+17th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+16th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f7;&#x1f1f8;" title=":flag_rs:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f7-1f1f8.png" />
+</span>
+Serbia
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">11</td>
+<td class="px-2 py-2 text-sm text-right">15</td>
+<td class="px-2 py-2 text-sm text-right">12</td>
+<td class="px-2 py-2 text-sm text-right">11</td>
+<td class="px-2 py-2 text-sm text-right">6</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+1 point
+</span>
+10th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+6 points
+</span>
+5th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f8;&#x1f1ee;" title=":flag_si:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f8-1f1ee.png" />
+</span>
+Slovenia
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">16</td>
+<td class="px-2 py-2 text-sm text-right">5</td>
+<td class="px-2 py-2 text-sm text-right">7</td>
+<td class="px-2 py-2 text-sm text-right">7</td>
+<td class="px-2 py-2 text-sm text-right">10</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+3 points
+</span>
+8th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+2 points
+</span>
+9th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f8;&#x1f1ea;" title=":flag_se:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f8-1f1ea.png" />
+</span>
+Sweden
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">1</td>
+<td class="px-2 py-2 text-sm text-right">1</td>
+<td class="px-2 py-2 text-sm text-right">1</td>
+<td class="px-2 py-2 text-sm text-right">1</td>
+<td class="px-2 py-2 text-sm text-right">1</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+12 points
+</span>
+1st
+</td>
+<td class="px-4 py-2 text-sm text-right">
+11th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1f3;&#x1f1f1;" title=":flag_nl:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1f3-1f1f1.png" />
+</span>
+The Netherlands
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">8</td>
+<td class="px-2 py-2 text-sm text-right">3</td>
+<td class="px-2 py-2 text-sm text-right">5</td>
+<td class="px-2 py-2 text-sm text-right">4</td>
+<td class="px-2 py-2 text-sm text-right">3</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+7 points
+</span>
+4th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+3 points
+</span>
+8th
+</td>
+</tr>
+<tr>
+<td class="px-4 py-2 text-sm">
+<span class="emoji styled">
+<img class="joypixels" alt="&#x1f1fa;&#x1f1e6;" title=":flag_ua:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f1fa-1f1e6.png" />
+</span>
+Ukraine
+</td>
+<td></td>
+<td class="px-2 py-2 text-sm text-right">17</td>
+<td class="px-2 py-2 text-sm text-right">8</td>
+<td class="px-2 py-2 text-sm text-right">11</td>
+<td class="px-2 py-2 text-sm text-right">9</td>
+<td class="px-2 py-2 text-sm text-right">16</td>
+<td class="px-4 py-2 text-sm text-right">
+12th
+</td>
+<td class="px-4 py-2 text-sm text-right">
+<span class="text-gray-700 text-xs mr-1">
+1 point
+</span>
+10th
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<footer class="text-white bg-blue-1000 relative z-10 w-full mt-16 md:mt-24">
+<div class="container-full mx-auto">
+<div class="flex">
+<div class="w-1/5 hidden xxl:block"></div>
+<div class="w-full xxl:w-4/5">
+<div class="hidden md:flex items-center my-6 py-8 px-8 border-b border-white">
+<h4 class="flex items-center">
+<span class="emoji block -mt-2">
+<img class="joypixels" alt="&#x1f4e9;" title=":envelope_with_arrow:" src="https://cdn.jsdelivr.net/joypixels/assets/6.0/png/unicode/32/1f4e9.png" />
+</span>
+<span class="ml-4 font-bold text-2xl leading-none">Get updates in your inbox!</span>
+</h4>
+<a x-data @click="
+              window.ga && ga('send', 'event', 'Newsletter', 'open');
+            " href="http://eepurl.com/L2WRb" target="_blank" class="ml-4 outline-none focus:ring-blue-700 rounded">
+<button type="button" class="button border-gray-300 text-black bg-white hover:bg-gray-300 focus:border-blue-300 focus:shadow-outline-blue active:text-gray-800 active:bg-gray-500" tabindex="-1">
+Sign up
+</button>
+</a>
+</div>
+<div class="flex flex-wrap my-6 px-4 lg:px-8 py-2 md:my-16">
+<div class="w-full md:w-1/2 mb-4 lg:mb-0">
+<div class="flex flex-col items-start">
+<a href="https://www.ebu.ch" target="blank">
+<img src="https://static.eurovision.tv/dist/assets/images/ebu-logo.3fca5096580d2c00da43..svg" alt="European Broadcasting Union" class="mb-6" />
+</a>
+ <p class="w-full">
+The Eurovision Song Contest is organized by the
+<a class="text-white" href="https://www.ebu.ch" target="blank">European Broadcasting Union</a>,
+the world's foremost alliance of public service media, representing 116 member organizations in
+56 countries and an additional 34 Associates in Asia, Africa, Australasia and the Americas.
+</p>
+<div class="mt-6">
+<a href="https://events.eurovision.tv" class="no-underline hover:underline focus:underline text-white font-bold">
+Eurovision Live Events
+</a>
+</div>
+</div>
+</div>
+<div class="w-full lg:w-1/2 lg:pl-6 mt-0">
+<div class="flex flex-col items-start">
+<h3 class="mb-1 text-xl font-bold leading-tight">Partners</h3>
+<div class="footer-sponsors | text-sm flex flex-wrap flex-row space-y-4 w-full">
+<a href="http://www.riedel.net/" title="Riedel" target="_blank" class="text-sm leading-none md:text-base block flex flex-col justify-end text-white no-underline mr-4">
+<span>Official Partner</span>
+<div class="flex items-center justify-center w-40 h-16 bg-white shadow rounded py-4 px-6 mt-2">
+<img src="https://static.eurovision.tv/hb-cgi/images/8fc69acf-3c1f-4415-af91-a4a033df77be/partner.png" alt="Riedel" class="flex-shrink-0 max-h-full">
+</div>
+</a>
+<a href="https://www.ebu.ch/" title="EBU" target="_blank" class="text-sm leading-none md:text-base block flex flex-col justify-end text-white no-underline mr-4">
+<span>Organized By</span>
+<div class="flex items-center justify-center w-40 h-16 bg-white shadow rounded py-4 px-6 mt-2">
+<img src="https://static.eurovision.tv/hb-cgi/images/8fbca449-2b07-406e-8ebb-ff7d2aeb3ded/partner.png" alt="EBU" class="flex-shrink-0 max-h-full">
+</div>
+</a>
+<a href="https://www.moroccanoil.com/" title="Moroccanoil" target="_blank" class="text-sm leading-none md:text-base block flex flex-col justify-end text-white no-underline mr-4">
+<span>Presenting Partner</span>
+<div class="flex items-center justify-center w-40 h-16 bg-white shadow rounded py-4 px-6 mt-2">
+<img src="https://static.eurovision.tv/hb-cgi/images/900cc2cf-a9c5-4a56-8b48-b710f61d52a0/partner.png" alt="Moroccanoil" class="flex-shrink-0 max-h-full">
+</div>
+</a>
+<a href="https://www.booking.com/?aid=2124988label=eurovision-digital-website-logo" title="Booking.com" target="_blank" class="text-sm leading-none md:text-base block flex flex-col justify-end text-white no-underline mr-4">
+<span>Official Travel Partner</span>
+<div class="flex items-center justify-center w-40 h-16 bg-white shadow rounded py-4 px-6 mt-2">
+<img src="https://static.eurovision.tv/hb-cgi/images/92b25a33-eb2a-4d94-afc6-bb458c3a5316/partner.png" alt="Booking.com" class="flex-shrink-0 max-h-full">
+</div>
+</a>
+<a href="https://osram.com" title="Osram" target="_blank" class="text-sm leading-none md:text-base block flex flex-col justify-end text-white no-underline mr-4">
+<span>Official Lighting Partner</span>
+<div class="flex items-center justify-center w-40 h-16 bg-white shadow rounded py-4 px-6 mt-2">
+<img src="https://static.eurovision.tv/hb-cgi/images/8d9181b7-c358-426e-9eae-be22b21e06d0/partner.png" alt="Osram" class="flex-shrink-0 max-h-full">
+</div>
+</a>
+<a href="https://voicefortheplanet.eu" title="WWF" target="_blank" class="text-sm leading-none md:text-base block flex flex-col justify-end text-white no-underline mr-4">
+<span>Supporting</span>
+<div class="flex items-center justify-center w-40 h-16 bg-white shadow rounded py-4 px-6 mt-2">
+<img src="https://static.eurovision.tv/hb-cgi/images/936bbc86-35dd-4216-9357-1fe906d0516b/partner.png" alt="WWF" class="flex-shrink-0 max-h-full">
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<nav class="text-white flex flex-col xxl:flex-row items-center py-6 px-6 lg:px-8 relative border-t border-white">
+<div class="w-full xxl:w-1/2 pr-10">
+<ul class="flex flex-wrap flex-col lg:flex-row font-bold lg:space-x-6">
+<li class="footer-nav-item">
+<a href="/terms-of-use" class="no-underline hover:underline focus:underline text-white">
+Terms of Use
+</a>
+</li>
+<li class="footer-nav-item">
+<a href="/privacy-cookie-policy" class="no-underline hover:underline focus:underline text-white">
+Cookies & Privacy Policy
+</a>
+</li>
+<li class="footer-nav-item">
+<a href="/press" class="no-underline hover:underline focus:underline text-white">
+Press
+</a>
+</li>
+<li class="footer-nav-item">
+<a href="/support" class="no-underline hover:underline focus:underline text-white">
+Support
+</a>
+</li>
+</ul>
+</div>
+<div class="w-full xxl:w-1/2 relative mt-2 xl:mt-4">
+<div class="text-sm">
+&copy; EBU 2002-2021. All rights reserved.
+<br class="lg:hidden" />
+Website by <a href="https://scrn.com" class="text-white hover:underline focus:underline">Scrn</a>.
+</div>
+</div>
+<button x-data @click="window.scrollTo({ top: 0, behavior: 'smooth' })" class="absolute flex items-center justify-center bg-white h-16 w-16 right-0 top-0">
+<svg width="27" height="15" xmlns="http://www.w3.org/2000/svg"><path d="M.684 13.177c-.39.422-.38 1.08.027 1.488.405.408 1.06.42 1.48.026L13.559 3.263 24.53 14.69c.42.394 1.075.382 1.48-.026a1.076 1.076 0 0 0 .027-1.488L13.559.434.684 13.177z" fill="#000" fill-rule="evenodd" /></svg> </button>
+</nav>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Event","name":"Second Semi-Final of the Eurovision Song Contest Lisbon 2018","startDate":"2018-05-10T19:00:00+00:00","image":"https:\/\/static.eurovision.tv\/hb-cgi\/images\/8d917f4a-3951-4134-a279-2a760ecc5bb0.png","performers":[{"@id":"https:\/\/eurovision.tv\/participant\/jessika-featuring-jenifer-brening"},{"@id":"https:\/\/eurovision.tv\/participant\/gromee-featuring-lukas-meijer"},{"@id":"https:\/\/eurovision.tv\/participant\/the-humans"},{"@id":"https:\/\/eurovision.tv\/participant\/iriao"},{"@id":"https:\/\/eurovision.tv\/participant\/alexander-rybak-2018"},{"@id":"https:\/\/eurovision.tv\/participant\/lea-sirk"},{"@id":"https:\/\/eurovision.tv\/participant\/jessica-mauboy"},{"@id":"https:\/\/eurovision.tv\/participant\/rasmussen"},{"@id":"https:\/\/eurovision.tv\/participant\/sanja-ilic-balkanika"},{"@id":"https:\/\/eurovision.tv\/participant\/waylon"},{"@id":"https:\/\/eurovision.tv\/participant\/doredos"},{"@id":"https:\/\/eurovision.tv\/participant\/melovin"},{"@id":"https:\/\/eurovision.tv\/participant\/laura-rizzotto"},{"@id":"https:\/\/eurovision.tv\/participant\/christabelle"},{"@id":"https:\/\/eurovision.tv\/participant\/Julia-samoylova"},{"@id":"https:\/\/eurovision.tv\/participant\/vanja-radovanovic"},{"@id":"https:\/\/eurovision.tv\/participant\/aws"},{"@id":"https:\/\/eurovision.tv\/participant\/benjamin-ingrosso"}],"workPerformed":[{"@type":"MusicRecording","name":"Who We Are","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/jessika-featuring-jenifer-brening"}},{"@type":"MusicRecording","name":"Light Me Up","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/gromee-featuring-lukas-meijer"}},{"@type":"MusicRecording","name":"Goodbye","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/the-humans"}},{"@type":"MusicRecording","name":"For You","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/iriao"}},{"@type":"MusicRecording","name":"That's How You Write A Song","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/alexander-rybak-2018"}},{"@type":"MusicRecording","name":"Hvala, ne!","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/lea-sirk"}},{"@type":"MusicRecording","name":"We Got Love","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/jessica-mauboy"}},{"@type":"MusicRecording","name":"Higher Ground","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/rasmussen"}},{"@type":"MusicRecording","name":"Nova Deca","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/sanja-ilic-balkanika"}},{"@type":"MusicRecording","name":"Outlaw In 'Em","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/waylon"}},{"@type":"MusicRecording","name":"My Lucky Day","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/doredos"}},{"@type":"MusicRecording","name":"Under The Ladder","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/melovin"}},{"@type":"MusicRecording","name":"Funny Girl","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/laura-rizzotto"}},{"@type":"MusicRecording","name":"Taboo","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/christabelle"}},{"@type":"MusicRecording","name":"I Won't Break","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/Julia-samoylova"}},{"@type":"MusicRecording","name":"Inje","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/vanja-radovanovic"}},{"@type":"MusicRecording","name":"Viszlát Nyár","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/aws"}},{"@type":"MusicRecording","name":"Dance You Off","byArtist":{"@id":"https:\/\/eurovision.tv\/participant\/benjamin-ingrosso"}}],"@id":"https:\/\/eurovision.tv\/event\/8d91c1a9-bc69-4679-a8cf-6719b7a9f018\/second-semi-final"}</script>
+<template id="embed">
+<div x-data="" data-embed-notice>
+<div class="flex flex-col items-center">
+<div class="text-center text-base font-bold">
+To view this content from <span x-text="vendor"></span>, we recommend that you accept social media cookies.
+</div>
+<div class="bg-blue-1000 flex items-center justify-center mt-5 p-10 sm:p-15 relative">
+<div class="absolute inset-0 flex items-center justify-center">
+<img src="https://static.eurovision.tv/dist/assets/images/esc/logo_white.e11504d541ddbd5b78b9..svg" alt="Eurovision Song Contest" class="filter-blur w-3/4" />
+</div>
+<button @click="window.OneTrust && window.OneTrust.ToggleInfoDisplay()" class="opacity-90 bg-white hover:bg-gray-300 text-md py-2 px-4 rounded">
+Manage cookie preferences
+</button>
+</div>
+<span class="text-sm mt-4">Read more about <a href="/privacy-notice-cookie-policy">social media cookies</a>.</span>
+</div>
+</div>
+</template>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"671779a10d1496d4","token":"f9989826a2b24b198d37c705b6cfd300","version":"2021.6.0","si":10}'></script>
+</body>
+</html>

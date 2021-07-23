@@ -1,0 +1,840 @@
+{
+	"stockholm-2016": {
+		"armenia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"austria": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"azerbaijan": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"bosnia-herzegovina": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"croatia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"cyprus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"czech-republic": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"estonia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"finland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"france": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"greece": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"hungary": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"iceland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"malta": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"moldova": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"montenegro": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"russia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"san-marino": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"spain": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"sweden": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"the-netherlands": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"albania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"australia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"belarus": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"belgium": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"bulgaria": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"denmark": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"georgia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"germany": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"ireland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"israel": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"italy": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"latvia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"lithuania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"fyr-macedonia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"norway": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"poland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"serbia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"slovenia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"switzerland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"ukraine": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"united-kingdom": [
+			"second-semi-final",
+			"grand-final"
+		]
+	},
+	"kyiv-2017": {
+		"albania": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"armenia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"australia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"azerbaijan": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"belgium": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"cyprus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"czech-republic": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"finland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"georgia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"greece": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"iceland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"italy": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"latvia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"moldova": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"montenegro": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"poland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"portugal": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"slovenia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"spain": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"sweden": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"united-kingdom": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"austria": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"belarus": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"bulgaria": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"croatia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"denmark": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"estonia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"france": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"germany": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"hungary": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"ireland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"israel": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"lithuania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"malta": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"fyr-macedonia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"norway": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"romania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"san-marino": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"serbia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"switzerland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"the-netherlands": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"ukraine": [
+			"second-semi-final",
+			"grand-final"
+		]
+	},
+	"lisbon-2018": {
+		"albania": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"armenia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"austria": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"azerbaijan": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"belarus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"belgium": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"bulgaria": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"croatia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"cyprus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"czech-republic": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"estonia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"finland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"greece": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"iceland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"ireland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"israel": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"lithuania": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"fyr-macedonia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"portugal": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"spain": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"switzerland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"united-kingdom": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"australia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"denmark": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"france": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"georgia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"germany": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"hungary": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"italy": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"latvia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"malta": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"moldova": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"montenegro": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"norway": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"poland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"romania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"russia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"san-marino": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"serbia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"slovenia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"sweden": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"the-netherlands": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"ukraine": [
+			"second-semi-final",
+			"grand-final"
+		]
+	},
+	"tel-aviv-2019": {
+		"australia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"belarus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"belgium": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"cyprus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"czech-republic": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"estonia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"finland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"france": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"georgia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"greece": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"hungary": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"iceland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"israel": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"montenegro": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"poland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"portugal": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"san-marino": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"serbia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"slovenia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"spain": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"albania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"armenia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"austria": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"azerbaijan": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"croatia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"denmark": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"germany": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"ireland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"italy": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"latvia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"lithuania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"malta": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"moldova": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"fyr-macedonia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"norway": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"romania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"russia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"sweden": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"switzerland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"the-netherlands": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"united-kingdom": [
+			"second-semi-final",
+			"grand-final"
+		]
+	},
+	"rotterdam-2021": {
+		"australia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"azerbaijan": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"belgium": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"croatia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"cyprus": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"germany": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"ireland": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"israel": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"italy": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"lithuania": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"malta": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"fyr-macedonia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"norway": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"romania": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"russia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"slovenia": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"sweden": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"the-netherlands": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"ukraine": [
+			"first-semi-final",
+			"grand-final"
+		],
+		"albania": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"austria": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"bulgaria": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"czech-republic": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"denmark": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"estonia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"finland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"france": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"georgia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"greece": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"iceland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"latvia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"moldova": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"poland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"portugal": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"san-marino": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"serbia": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"spain": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"switzerland": [
+			"second-semi-final",
+			"grand-final"
+		],
+		"united-kingdom": [
+			"second-semi-final",
+			"grand-final"
+		]
+	}
+}
